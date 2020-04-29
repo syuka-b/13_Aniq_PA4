@@ -1,7 +1,23 @@
 What is unit testing?
-Unit Testing is conducted by:
-It is type of (Blackbox/Whitebox) testing
+Unit Testing is conducted by: developer
+It is type of Blackbox testing
 
 What is integration testing?
-Integration testing is conducted by:
-It is type of (Blackbox/Whitebox) testing
+Integration testing is conducted by:testers
+It is type of Blackbox testing
+
+System testing ​
+
+What is system Testing?​
+
+System Testing is conducted by developer​
+
+It is type of (blackbox/whitebox testing)​
+
+Acceptance testing​
+
+What is acceptance Testing?​
+
+Acceptance Testing is conducted by customers
+
+It is type of blackbox
