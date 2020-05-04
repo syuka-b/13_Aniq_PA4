@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: C:/Users/Alpha/Documents/GitHub/02_Napa_PA4/02_PA4_Napa/Assets/Scenes/CubeScene.unity
   isLoaded: 1
   isActive: 1
